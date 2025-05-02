@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "662324845842",
+    "firebase_url": "https://expense-31597-default-rtdb.firebaseio.com",
+    "project_id": "expense-31597",
+    "storage_bucket": "expense-31597.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662324845842:android:2cb2dabffdc86743c627cb",
+        "android_client_info": {
+          "package_name": "com.example.crudeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM7hSwzlRnTO_ouxR2IFcdFr-j3w9Ohpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

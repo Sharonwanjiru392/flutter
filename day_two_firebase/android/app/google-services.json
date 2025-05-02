@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164281630162",
+    "project_id": "day-two-firebase",
+    "storage_bucket": "day-two-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164281630162:android:f58a0ad5a767703d095c0b",
+        "android_client_info": {
+          "package_name": "com.example.day_two_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7mVO1CdP_E1fdV15zyipfYgxKjEh9GGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
